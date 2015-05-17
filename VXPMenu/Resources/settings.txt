@@ -1,0 +1,13 @@
+﻿game "Quake 3" "/home/pi/ioquake3.arm" false
+game "Minecraft Pi" "minecraft-pi" false
+game "Example" "/home/pi/ioquake3.arm" false
+game "Example1" "/home/pi/ioquake3.arm" false
+game "Example2" "/home/pi/ioquake3.arm" false
+game "Example3" "/home/pi/ioquake3.arm" false
+game "Example4" "/home/pi/ioquake3.arm" false
+emulator "Nintendo 64" "n64" false
+emulator "GBA" "gba" false
+emulator "PSOne" "psone" false
+emulator "SNES" "snes" false
+setting primarycolor 255 255 255
+setting secondarycolor 211 211 211
